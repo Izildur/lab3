@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="D:\Isidorcilo_Bojcilo\SDK\SDK_Workspace\hello_world\Debug\hello_world.elf" key="Isidorcilo_Bojcilo_hw_platform-microblaze_0-initElf"/>
+	<item value="D:\Isidorcilo_Bojcilo\SDK\SDK_Workspace\Isidorcilo_Bojcilo_hw_platform\system_bd.bmm" key="Isidorcilo_Bojcilo_hw_platform-bmmFile"/>
+	<item value="D:\Isidorcilo_Bojcilo\SDK\SDK_Workspace\Isidorcilo_Bojcilo_hw_platform\system.bit" key="Isidorcilo_Bojcilo_hw_platform-bitFile"/>
+</section>

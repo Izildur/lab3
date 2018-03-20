@@ -1,0 +1,15 @@
+D:\Isidorcilo_Bojcilo\implementation\system.ngc 1521537632
+D:/Isidorcilo_Bojcilo/implementation/system_dip_switches_wrapper.ngc 1521537608
+D:/Isidorcilo_Bojcilo/implementation/system_rs232_wrapper.ngc 1521537595
+D:/Isidorcilo_Bojcilo/implementation/system_proc_sys_reset_0_wrapper.ngc 1521537527
+D:/Isidorcilo_Bojcilo/implementation/system_clock_generator_0_wrapper.ngc 1521537619
+D:/Isidorcilo_Bojcilo/implementation/system_microblaze_0_ilmb_wrapper.ngc 1521537611
+D:/Isidorcilo_Bojcilo/implementation/system_microblaze_0_dlmb_wrapper.ngc 1521537614
+D:/Isidorcilo_Bojcilo/implementation/system_axi4lite_0_wrapper.ngc 1521537622
+D:/Isidorcilo_Bojcilo/implementation/system_microblaze_0_wrapper.ngc 1521537616
+D:/Isidorcilo_Bojcilo/implementation/system_microblaze_0_i_bram_ctrl_wrapper.ngc 1521537535
+D:/Isidorcilo_Bojcilo/implementation/system_microblaze_0_d_bram_ctrl_wrapper.ngc 1521537544
+D:/Isidorcilo_Bojcilo/implementation/system_debug_module_wrapper.ngc 1521537577
+D:/Isidorcilo_Bojcilo/implementation/system_leds_wrapper.ngc 1521537601
+D:/Isidorcilo_Bojcilo/implementation/system_microblaze_0_bram_block_wrapper.ngc 1521537549
+OK
